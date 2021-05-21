@@ -1,6 +1,7 @@
 # vertica-python
 
 [![PyPI version](https://badge.fury.io/py/vertica-python.svg)](https://badge.fury.io/py/vertica-python)
+[![CodeFactor](https://www.codefactor.io/repository/github/saadmairaj/vertica-python/badge/master)](https://www.codefactor.io/repository/github/saadmairaj/vertica-python/overview/master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python Version](https://img.shields.io/pypi/pyversions/vertica-python.svg)](https://www.python.org/downloads/)
 [![Downloads](https://pepy.tech/badge/vertica-python/week)](https://pepy.tech/project/vertica-python)
